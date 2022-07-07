@@ -1,0 +1,32 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
+h1 {
+    background-color: blue;
+    color: rgb(208, 205, 255);
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+h2 {
+/*     background-color: rgb(255, 191, 0);
+ */    color: rgb(146, 99, 30);
+    margin-bottom: 3rem;
+    text-align: center;
+    width: 100%;
+}
+
+input{
+    text-align: center;
+}
+img {
+    align-items: center;
+    margin: 0.4rem;
+/*     width: 0.5vw;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5));
+    border-image-source: none;
+    width: fit-content; */
+    
+}
